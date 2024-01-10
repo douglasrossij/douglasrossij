@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋</h1>
+<h1>Hello there! 👋</h1>
 
 My name is Douglas Rossi, I am 30 years old and I am a native of Brazil, specifically from the interior of Minas Gerais. 
 
